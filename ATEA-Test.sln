@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATEA-Test", "ATEA-Test\ATEA-Test.csproj", "{2B325017-4C3D-4568-A83A-6C1F8B5D6DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATEA-Test-Unit", "ATEA-Test-Unit\ATEA-Test-Unit.csproj", "{77BEB03E-E4B5-4107-B517-8570F2C1D58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B325017-4C3D-4568-A83A-6C1F8B5D6DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B325017-4C3D-4568-A83A-6C1F8B5D6DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B325017-4C3D-4568-A83A-6C1F8B5D6DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B325017-4C3D-4568-A83A-6C1F8B5D6DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BEB03E-E4B5-4107-B517-8570F2C1D58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BEB03E-E4B5-4107-B517-8570F2C1D58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BEB03E-E4B5-4107-B517-8570F2C1D58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BEB03E-E4B5-4107-B517-8570F2C1D58E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EAA0D11-3C2E-4AC4-96AF-814A4F9A9948}
+	EndGlobalSection
+EndGlobal
